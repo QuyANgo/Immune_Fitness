@@ -1,0 +1,39 @@
+/data/PRTNR/CHUV/ONCO/svigano/immune_fitness/qngo2/Scripts
+cpt10.chuv.vital-it.ch
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210430_A00485_0127_AHYNNHDRXX to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210430_A00485_0127_AHYNNHDRXX
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210618_A00485_0142_BHYNC3DRXX to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210618_A00485_0142_BHYNC3DRXX
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210622_A00485_0144_AHYNKVDRXX to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210622_A00485_0144_AHYNKVDRXX
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210707_A00485_0151_BHFYGTDRXY to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210707_A00485_0151_BHFYGTDRXY
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210713_A00485_0154_AH2K5JDRXY to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210713_A00485_0154_AH2K5JDRXY
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210723_A00485_0160_AHHFTFDRXY to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210723_A00485_0160_AHHFTFDRXY
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210730_A00485_0165_BHG5YKDRXY to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210730_A00485_0165_BHG5YKDRXY
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210806_A00485_0168_BHG7YMDRXY to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210806_A00485_0168_BHG7YMDRXY
+Fri Sep 10 15:13:05 CEST 2021
+copy fastq in /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210818_A00485_0172_AHK33MDRXY to /archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq
+cp: cannot create directory ‘/archive/PRTNR/CHUV/ONCO/svigano/immune_fitness/fastq’: No such file or directory
+done copy for /scratch/beegfs/PRTNR/CHUV/ONCO/svigano/immune_fitness/210818_A00485_0172_AHK33MDRXY
+Fri Sep 10 15:13:05 CEST 2021
